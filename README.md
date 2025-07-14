@@ -1,88 +1,93 @@
-📊 Sales & Customer Insights Dashboard – Power BI Project
-This Power BI dashboard provides an end-to-end analysis of sales performance, customer behavior, and profitability metrics across product categories, regions, and time. Built with a clean visual layout and interactive filters, this dashboard is designed to help business users and decision-makers uncover key trends and optimize strategies.
+# 📊 Sales & Customer Insights Dashboard – Power BI Project
 
-📌 Project Overview
-The dashboard offers a data-driven summary of business performance across multiple dimensions such as product type, geography, time, sales channels, and discount categories. It combines KPIs, trend visuals, and segmented insights to provide a holistic view of sales and customer feedback.
+This Power BI dashboard delivers a complete analysis of **sales performance**, **customer behavior**, and **profitability metrics** across product categories, geographies, and time periods. Built with a clean visual layout and interactive filters, it supports data-driven decision-making for business leaders and stakeholders.
 
-🔍 Key Highlights
-Overall KPIs:
+---
 
-Total Sales: $226.24K
+## 📌 Project Overview
 
-Total Cost: $177.84K
+The dashboard provides a comprehensive view of business metrics by analyzing:
 
-Total Profit: $48.40K
+- Product categories and individual product performance  
+- Geographic sales trends by country and region  
+- Temporal trends (monthly sales/profit)  
+- Customer satisfaction and complaints  
+- Sales channels and discount strategies
 
-Profit %: 27.21%
+It integrates KPIs, segmented charts, and drill-down visuals to uncover actionable insights.
 
-Total Customers: 2.28K
+---
 
-Sales Performance:
+## 🔍 Key Highlights
 
-Sales analyzed by Product Class (Standard, Deluxe, Premium, Elite)
+### 💼 Overall KPIs:
+- **Total Sales**: $226.24K  
+- **Total Cost**: $177.84K  
+- **Total Profit**: $48.40K  
+- **Profit Margin**: 27.21%  
+- **Total Customers**: 2.28K  
 
-Detailed sales per Product Name
+### 📊 Sales Performance:
+- Sales categorized by **Product Class**: Standard, Deluxe, Premium, Elite  
+- Product-level sales breakdown  
+- **Time-series analysis** to detect seasonal trends  
 
-Time-series analysis across months to detect seasonality
+### 🌍 Geographical Insights:
+- Profit and sales split by **Country** and **Region**  
+- Top performing countries: *United States*, *Australia*, *Norway*, *Switzerland*
 
-Geographical Insights:
+### 🌟 Customer Ratings & Feedback:
+- Ratings segmented by **Region, Country, Product, and Product Class**  
+- **Total Ratings**: 2.28K  
+- Frequent issues: Product damage, delivery delays, packaging, and performance  
 
-Sales and profit distributed by Country and Region
+### 💰 Profitability Analysis:
+- Sales & profit by **Sales Channel**: Online, Store, Affiliate, Referral  
+- **Discount category impact**: No Discount, Flash, Clearance, Seasonal  
+- Top-performing products and high-margin categories identified  
 
-Top countries include: United States, Australia, Norway, and Switzerland
+---
 
-Customer Ratings:
+## 📈 Insights & Business Outcomes
 
-Ratings segmented by Region, Product, Country, and Product Class
+- **Premium** and **Elite** product classes offer the highest profit margins  
+- **Flash** and **Seasonal discounts** yield better profits than Clearance  
+- **Online and Store** channels lead in revenue  
+- Regions with high complaints show lower customer satisfaction — guiding areas for service improvement  
 
-Total 2.28K ratings captured
+---
 
-Common complaints: Product damage, packaging issues, delivery delay, and performance issues
+## 🛠 Tools & Technologies Used
 
-Profitability Analysis:
+- **Power BI Desktop**  
+- **DAX** (Data Analysis Expressions) for KPIs and measures  
+- **Data Modeling**: Relationships between sales, products, customers, and feedback  
+- **Visuals**: Line charts, bar graphs, maps, KPIs, slicers  
 
-Sales and profit by Sales Channel (Online, Store, Affiliate, Referral)
+---
 
-Discount impact analysis across categories (No Discount, Flash, Clearance, Seasonal)
+## 📁 Files Included
 
-Top-performing products and high-margin classes identified
+- `sales-dashboard.pbix` – Main Power BI dashboard  
+- Sample Dataset / Excel file  
+- PNG screenshots  
+- `README.md` – Project documentation  
 
-📈 Insights & Outcomes
-Products like Premium and Elite classes generate higher profit margins.
+---
 
-Flash and seasonal discounts are more profitable compared to clearance.
+## ✅ Use Case
 
-Online and store channels outperform others in revenue contribution.
+Perfect for **retail** or **eCommerce** businesses aiming to:
 
-Customer satisfaction tends to be lower in regions with frequent complaints — identifying improvement areas.
+- Track and analyze sales performance  
+- Improve customer satisfaction  
+- Optimize discounts and pricing strategies  
+- Identify high-value products and regions  
+- Boost profitability with data-driven actions  
 
-Managers can use this dashboard to target high-performing categories, adjust discounts, and improve customer experience.
+---
 
-🛠 Tools & Technologies Used
-Power BI Desktop
+## 📬 Contact
 
-DAX (Data Analysis Expressions) for calculated measures and KPIs
+For queries or collaboration, feel free to connect on [LinkedIn](#).
 
-Data Modeling to relate tables (products, customers, ratings, sales, etc.)
-
-Interactive Visualizations: Line charts, bar graphs, maps, KPIs, and slicers
-
-📁 Files Included
-sales-dashboard.pbix – Main Power BI file 
-
-PNG screenshots of the dashboards
-
-Sample dataset or Excel file 
-
-README.md with full project explanation
-
-✅ Use Case
-This dashboard is ideal for retail or eCommerce businesses aiming to:
-
-Analyze customer feedback
-
-Maximize profit margins
-
-Track product and regional performance
-
-Optimize discount strategies and sales channels
